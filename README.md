@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Priyabrata Chattaraj</h1>
+[![MasterHead](./MasterHead.bin)](https://www.linkedin.com/in/priyabrata-chattaraj/)
+
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/priyabrata-chattaraj/" style="color: inherit; text-decoration: none">Priyabrata Chattaraj</a></h1>
 <h3 align="center">A Bloger And A Passsionate Coder, From India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyabratagig" alt="priyabratagig" /></a> </p>
+
+<img align="right" alt="Coding" src="./programmer.gif" width="65%">
 
 - 🔭 I’m currently working on [MERN E-COM Store](https://github.com/priyabratagig/mern-ecommerce-app-frontend.git)
 
@@ -13,7 +17,7 @@
 
 - 💬 Ask me about **React, JavaScript, MongoDB, Express, SQL, Springboot, Node**
 
-- 📫 How to reach me **priyabratachattaraj23+work@gmail.com**
+- 📫 How to reach me **<priyabratachattaraj23+work@gmail.com>**
 
 - 📄 Know about my experiences [https://github.com/priyabratagig/priyabrata-chattaraj/blob/main/Resume.pdf.pdf](https://github.com/priyabratagig/priyabrata-chattaraj/blob/main/Resume.pdf.pdf)
 
@@ -34,4 +38,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyabratagig&show_icons=true&locale=en&layout=compact" alt="priyabratagig" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyabratagig&show_icons=true&locale=en" alt="priyabratagig" /></p>
-
